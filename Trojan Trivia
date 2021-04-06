@@ -4,19 +4,21 @@
  * December 2nd 2020
  */
 import java.util.Scanner;
+
 public class StudyProgram {
+
  public static void main(String[] args) {
  Scanner reader = new Scanner(System.in);
  int numRight = 0;
  /**
  * sets the number of questions that will be correct to be calculated
  */
- System.out.println("It's Trojan Trivia Time!!");
+    System.out.println("It's Trojan Trivia Time!!");
  /**
  * Introduces the game
  */
- System.out.println("When was VSU Founded");
- System.out.println("Answer 1: 1882");
+   System.out.println("When was VSU Founded");
+   System.out.println("Answer 1: 1882");
  System.out.println("Answer 2: 1908");
  System.out.println("Answer 3: 2000");
  System.out.print(">> ");
