@@ -14,6 +14,8 @@ public class StudyProgram {
     * sets the number of questions that will be correct to be calculated
     */
     System.out.println("It's Trojan Trivia Time!!");
+    System.out.println("Insert name:           ");
+      String input = reader.nextLine();      
     /**
     * Introduces the game
     */
